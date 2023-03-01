@@ -1,0 +1,64 @@
+/** Esto es un comentario
+*/
+* {font-family: 'Comfortaa', cursive;
+}
+
+h1{
+  background-color: #F2FBEF;
+    border: 3px outset #F5DA81;
+    padding: 10 px;
+    margin: 30px;
+    font-weight: bold;
+    color: #424242;
+    text-align: center ;
+
+}
+
+h2{
+ 
+    padding: 10 px;
+    margin: 10px;
+    font-weight: bold;
+    color: #424242;
+    text-align: center ;
+
+}
+section{        
+    background-color: #F2FBEF;
+    border: 3px outset #F5DA81;
+    padding: 10PX;
+    width: 900px;
+    
+    margin-block-end: 35px;
+    text-align: justify;
+
+}
+#descripcion_personal{ color:#424242;
+
+}
+
+.descripcion_general{ color: #424242;
+
+}
+.right {
+    position: absolute;
+    right: 30px;
+    width: 400px;
+    border: 3px outset#F5DA81;
+    padding: 10px;
+    text-align: left;
+  } 
+  
+img {
+  width: 100%;
+  height: auto;
+}
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px
+);
