@@ -9,7 +9,7 @@ document.getElementById('boton_2').onclick=function(){
     document.getElementById('otras_habilidades').innerHTML="Otras habilidades: Manejo de grupos, gestión de recursos, movilidad propia";
 }
 
-/**{const time = new Date().getHours();
+{const time = new Date().getHours();
 let greeting;
 if (time < 10) {
   greeting = "Buen día, cuento un poco de mí:";
@@ -20,4 +20,3 @@ if (time < 10) {
 }
 document.getElementById("saludo").innerHTML = greeting;
 }
-*/
